@@ -1,3 +1,6 @@
 # Karanda
 Karanda project distribution channel
-https://github.com/HwanSangYeonHwa/Karanda/releases/tag/unstable
+
+Web: [https://hwansangyeonhwa.github.io/Karanda/]
+
+Download desktop app: [https://github.com/HwanSangYeonHwa/Karanda/releases]
