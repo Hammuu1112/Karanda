@@ -18,6 +18,14 @@ window.addEventListener('beforeinstallprompt', (event) => {
     }
     // Show the install prompt.
     promptEvent.prompt();
+    // Log the result
+    const result = await promptEvent.userChoice;
+    console.log('👍', 'userChoice', result);
+    // Reset the deferred prompt variable, since
+    // prompt() can only be called once.
+    window.deferredPrompt = null;
+    // Hide the install button.
+    divInstall.classList.toggle('hidden', true);
 });
 
 async function select() {
