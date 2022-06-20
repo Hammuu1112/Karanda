@@ -1,7 +1,7 @@
 const divInstall = document.getElementById('installContainer');
 const butInstall = document.getElementById('butInstall');
 
-window.addEventListener('beforeinstallprompt', (event) => {
+window.addEventListener('beforeinstallprompt', async (event) => {
     // Prevent the mini-infobar from appearing on mobile.
     event.preventDefault();
     console.log('👍', 'beforeinstallprompt', event);
@@ -27,24 +27,6 @@ window.addEventListener('beforeinstallprompt', (event) => {
     // Hide the install button.
     divInstall.classList.toggle('hidden', true);
 });
-
-async function select() {
-    const promptEvent = window.deferredPrompt;
-    if (!promptEvent) {
-        // The deferred prompt isn't available.
-        return;
-    }
-    // Show the install prompt.
-    promptEvent.prompt();
-    // Log the result
-    const result = await promptEvent.userChoice;
-    console.log('👍', 'userChoice', result);
-    // Reset the deferred prompt variable, since
-    // prompt() can only be called once.
-    window.deferredPrompt = null;
-    // Hide the install button.
-    divInstall.classList.toggle('hidden', true);
-}
 
 butInstall.addEventListener('click', async () => {
     console.log('👍', 'butInstall-clicked');
