@@ -1,5 +1,6 @@
 const divInstall = document.getElementById('installContainer');
 const butInstall = document.getElementById('butInstall');
+divInstall.classList.toggle('hidden', false);
 
 window.addEventListener('beforeinstallprompt', (event) => {
     // Prevent the mini-infobar from appearing on mobile.
