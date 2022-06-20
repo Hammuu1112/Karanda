@@ -1,6 +1,5 @@
 const divInstall = document.getElementById('installContainer');
 const butInstall = document.getElementById('butInstall');
-divInstall.classList.toggle('hidden', false);
 
 window.addEventListener('beforeinstallprompt', (event) => {
     // Prevent the mini-infobar from appearing on mobile.
@@ -10,6 +9,7 @@ window.addEventListener('beforeinstallprompt', (event) => {
     window.deferredPrompt = event;
     // Remove the 'hidden' class from the install button container.
     divInstall.classList.toggle('hidden', false);
+    divInstall.style.display = 'block';
 });
 
 butInstall.addEventListener('click', async () => {
