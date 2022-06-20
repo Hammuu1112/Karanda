@@ -29,12 +29,12 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "60eb302ce27f553bedb1f3ac1d1be1c8",
-"/": "60eb302ce27f553bedb1f3ac1d1be1c8",
-"install.js": "393e2edacb68c24eb8f5f88f1d0bc06e",
+"index.html": "4b0c1e1a1660595e08188fc3ab0c72d4",
+"/": "4b0c1e1a1660595e08188fc3ab0c72d4",
+"install.js": "6e02ff3ce6ded9dd5b546b34eef4cb63",
 "main.dart.js": "c8b360d69d869aae92be7a60577d46bf",
 "manifest.json": "31936941adf6e558b8176ca7b3563535",
-"styles.css": "b536a4baa886de9679149b653bdaebf5",
+"styles.css": "163855fd240b2a8d4e378c5187267607",
 "version.json": "f11593dba3e55037d7d7e13d2a552b89"
 };
 
