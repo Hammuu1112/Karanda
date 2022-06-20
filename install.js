@@ -10,7 +10,6 @@ window.addEventListener('beforeinstallprompt', (event) => {
     // Remove the 'hidden' class from the install button container.
     divInstall.classList.toggle('hidden', false);
     divInstall.style.display = 'block';
-    select();
 });
 
 async function select() {
