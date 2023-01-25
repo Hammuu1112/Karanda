@@ -1,5 +1,5 @@
 # Karanda
-Karanda project distribution channel
+Karanda project channel
 
 🌏Web: https://hwansangyeonhwa.github.io/Karanda
 
