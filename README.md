@@ -1,4 +1,5 @@
 # Karanda
+![Karanda_logo](https://github.com/HwanSangYeonHwa/Karanda/blob/main/assets/assets/image/logo/karanda_logo.png?raw=true)
 Karanda project channel
 
 🌏Web: https://hwansangyeonhwa.github.io/Karanda
