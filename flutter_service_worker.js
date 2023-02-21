@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7a5ac0e20e5b189188ec52c78734c792",
+  "assets/AssetManifest.json": "566b4a17628944f69259291f86088c8f",
 "assets/assets/data/combination.json": "2119dd3792cbfb266d48d8bd410e341f",
 "assets/assets/data/lightStones.json": "68efebc19375c2dfa6e78b54818a528a",
 "assets/assets/data/shipExtension.json": "8469287cdff629803f8a468a7a9ab42e",
@@ -14,6 +14,9 @@ const RESOURCES = {
 "assets/assets/icons/inven.png": "227132c3009171ab9301509c5f4701ae",
 "assets/assets/icons/lotus.png": "d54b80cda246768001826a26182ff100",
 "assets/assets/icons/onTopReplica.png": "1c95d5209c23437e7452b107010eb3cf",
+"assets/assets/image/logo/initial.png": "f87255e8d9c0e124dc30a0946f9f6a5c",
+"assets/assets/image/logo/karanda_logo.png": "577324048eea925ebddb864d3e7784b9",
+"assets/assets/image/logo/karanda_logo_sqaure.png": "23856322dca29d762fe47527da3cbe1e",
 "assets/assets/image/shipExtension/0001.png": "d0365e88c888aa4562ccf0a89645c4c9",
 "assets/assets/image/shipExtension/0002.png": "0564c825025c5cc065aacbb2207fc574",
 "assets/assets/image/shipExtension/0003.png": "dea317015431d50d358353edf3efd28f",
@@ -50,13 +53,13 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "7cecf8bd4af033296c15c265748c64c4",
 "icons/Icon-maskable-512.png": "aa168bb0710316152a0a3312009625f2",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "4a3dac43371471f389809ad9273704ec",
-"/": "4a3dac43371471f389809ad9273704ec",
+"index.html": "86bad6721328b443dbc1ca1b8c5a4c2b",
+"/": "86bad6721328b443dbc1ca1b8c5a4c2b",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "5406fb736ba11686f68135932345e99e",
+"main.dart.js": "78a0f028afc5cd92e8ed9a255f7590da",
 "manifest.json": "8ef6f3a3ce5c91b0baf47394ff0ccd03",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
-"version.json": "8dc6cdf36acaf4c160ed520b74025499"
+"version.json": "9360ffc240fbc48ba504542873a18981"
 };
 
 // The application shell files that are downloaded before a service worker can
