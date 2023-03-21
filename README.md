@@ -13,7 +13,7 @@ Karanda project channel
 - 이벤트 캘린더
 - 시카라키아 아홉문장 실타래 계산기
 - 광명석 조합식 탐색기
-- 예약 종료(Windows desktop 환경에서만 사용가능)
+- 예약 종료(Windows desktop only)
 - 선박 증축 재료 수급 현황
 - 물교 과적 계산기
 - 1단계 교환 비용 계산기
