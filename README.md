@@ -21,7 +21,7 @@ Karanda project channel
 - 요루나키아 보름달이 뜬 밤 실타래 계산기
 - 물교 교섭력 계산기
 
-# Wiki
+# 
 ### Karanda Wiki
  - [Home](https://github.com/HwanSangYeonHwa/Karanda/wiki)
  - [Installation](https://github.com/HwanSangYeonHwa/Karanda/wiki/Installation)
