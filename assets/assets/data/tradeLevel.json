@@ -1,0 +1,522 @@
+[
+	{
+		"name": "초급1",
+		"decrease": 0.0
+	},
+	{
+		"name": "초급2",
+		"decrease": 2.7329
+	},
+	{
+		"name": "초급3",
+		"decrease": 3.8568
+	},
+	{
+		"name": "초급4",
+		"decrease": 4.7136
+	},
+	{
+		"name": "초급5",
+		"decrease": 5.4313
+	},
+	{
+		"name": "초급6",
+		"decrease": 6.0595
+	},
+	{
+		"name": "초급7",
+		"decrease": 6.6238
+	},
+	{
+		"name": "초급8",
+		"decrease": 7.1392
+	},
+	{
+		"name": "초급9",
+		"decrease": 7.6157
+	},
+	{
+		"name": "초급10",
+		"decrease": 8.0603
+	},
+	{
+		"name": "견습1",
+		"decrease": 8.4779
+	},
+	{
+		"name": "견습2",
+		"decrease": 8.8723
+	},
+	{
+		"name": "견습3",
+		"decrease": 9.2466
+	},
+	{
+		"name": "견습4",
+		"decrease": 9.603
+	},
+	{
+		"name": "견습5",
+		"decrease": 9.9435
+	},
+	{
+		"name": "견습6",
+		"decrease": 10.2697
+	},
+	{
+		"name": "견습7",
+		"decrease": 10.583
+	},
+	{
+		"name": "견습8",
+		"decrease": 10.8843
+	},
+	{
+		"name": "견습9",
+		"decrease": 11.1747
+	},
+	{
+		"name": "견습10",
+		"decrease": 11.455
+	},
+	{
+		"name": "숙련1",
+		"decrease": 11.726
+	},
+	{
+		"name": "숙련2",
+		"decrease": 11.9882
+	},
+	{
+		"name": "숙련3",
+		"decrease": 12.2423
+	},
+	{
+		"name": "숙련4",
+		"decrease": 12.4887
+	},
+	{
+		"name": "숙련5",
+		"decrease": 12.7279
+	},
+	{
+		"name": "숙련6",
+		"decrease": 12.9602
+	},
+	{
+		"name": "숙련7",
+		"decrease": 13.1861
+	},
+	{
+		"name": "숙련8",
+		"decrease": 13.4059
+	},
+	{
+		"name": "숙련9",
+		"decrease": 13.6198
+	},
+	{
+		"name": "숙련10",
+		"decrease": 13.8281
+	},
+	{
+		"name": "전문1",
+		"decrease": 14.0312
+	},
+	{
+		"name": "전문2",
+		"decrease": 14.2291
+	},
+	{
+		"name": "전문3",
+		"decrease": 14.4222
+	},
+	{
+		"name": "전문4",
+		"decrease": 14.6105
+	},
+	{
+		"name": "전문5",
+		"decrease": 14.7944
+	},
+	{
+		"name": "전문6",
+		"decrease": 14.9739
+	},
+	{
+		"name": "전문7",
+		"decrease": 15.1492
+	},
+	{
+		"name": "전문8",
+		"decrease": 15.3205
+	},
+	{
+		"name": "전문9",
+		"decrease": 15.4878
+	},
+	{
+		"name": "전문10",
+		"decrease": 15.6514
+	},
+	{
+		"name": "장인1",
+		"decrease": 15.8113
+	},
+	{
+		"name": "장인2",
+		"decrease": 15.9677
+	},
+	{
+		"name": "장인3",
+		"decrease": 16.1206
+	},
+	{
+		"name": "장인4",
+		"decrease": 16.2701
+	},
+	{
+		"name": "장인5",
+		"decrease": 16.4164
+	},
+	{
+		"name": "장인6",
+		"decrease": 16.5595
+	},
+	{
+		"name": "장인7",
+		"decrease": 16.6995
+	},
+	{
+		"name": "장인8",
+		"decrease": 16.8365
+	},
+	{
+		"name": "장인9",
+		"decrease": 16.9705
+	},
+	{
+		"name": "장인10",
+		"decrease": 17.1017
+	},
+	{
+		"name": "명장1",
+		"decrease": 17.23
+	},
+	{
+		"name": "명장2",
+		"decrease": 17.3556
+	},
+	{
+		"name": "명장3",
+		"decrease": 17.4785
+	},
+	{
+		"name": "명장4",
+		"decrease": 17.5988
+	},
+	{
+		"name": "명장5",
+		"decrease": 17.7165
+	},
+	{
+		"name": "명장6",
+		"decrease": 17.8316
+	},
+	{
+		"name": "명장7",
+		"decrease": 17.9443
+	},
+	{
+		"name": "명장8",
+		"decrease": 18.0546
+	},
+	{
+		"name": "명장9",
+		"decrease": 18.1624
+	},
+	{
+		"name": "명장10",
+		"decrease": 18.2679
+	},
+	{
+		"name": "명장11",
+		"decrease": 18.3711
+	},
+	{
+		"name": "명장12",
+		"decrease": 18.4721
+	},
+	{
+		"name": "명장13",
+		"decrease": 18.5708
+	},
+	{
+		"name": "명장14",
+		"decrease": 18.67
+	},
+	{
+		"name": "명장15",
+		"decrease": 18.77
+	},
+	{
+		"name": "명장16",
+		"decrease": 18.87
+	},
+	{
+		"name": "명장17",
+		"decrease": 18.97
+	},
+	{
+		"name": "명장18",
+		"decrease": 19.07
+	},
+	{
+		"name": "명장19",
+		"decrease": 19.17
+	},
+	{
+		"name": "명장20",
+		"decrease": 19.27
+	},
+	{
+		"name": "명장21",
+		"decrease": 19.37
+	},
+	{
+		"name": "명장22",
+		"decrease": 19.47
+	},
+	{
+		"name": "명장23",
+		"decrease": 19.57
+	},
+	{
+		"name": "명장24",
+		"decrease": 19.67
+	},
+	{
+		"name": "명장25",
+		"decrease": 19.77
+	},
+	{
+		"name": "명장26",
+		"decrease": 19.87
+	},
+	{
+		"name": "명장27",
+		"decrease": 19.97
+	},
+	{
+		"name": "명장28",
+		"decrease": 20.07
+	},
+	{
+		"name": "명장29",
+		"decrease": 20.17
+	},
+	{
+		"name": "명장30",
+		"decrease": 20.27
+	},
+	{
+		"name": "도인1",
+		"decrease": 20.37
+	},
+	{
+		"name": "도인2",
+		"decrease": 20.47
+	},
+	{
+		"name": "도인3",
+		"decrease": 20.57
+	},
+	{
+		"name": "도인4",
+		"decrease": 20.67
+	},
+	{
+		"name": "도인5",
+		"decrease": 20.77
+	},
+	{
+		"name": "도인6",
+		"decrease": 20.87
+	},
+	{
+		"name": "도인7",
+		"decrease": 20.97
+	},
+	{
+		"name": "도인8",
+		"decrease": 21.07
+	},
+	{
+		"name": "도인9",
+		"decrease": 21.17
+	},
+	{
+		"name": "도인10",
+		"decrease": 21.27
+	},
+	{
+		"name": "도인11",
+		"decrease": 21.37
+	},
+	{
+		"name": "도인12",
+		"decrease": 21.47
+	},
+	{
+		"name": "도인13",
+		"decrease": 21.57
+	},
+	{
+		"name": "도인14",
+		"decrease": 21.67
+	},
+	{
+		"name": "도인15",
+		"decrease": 21.77
+	},
+	{
+		"name": "도인16",
+		"decrease": 21.87
+	},
+	{
+		"name": "도인17",
+		"decrease": 21.97
+	},
+	{
+		"name": "도인18",
+		"decrease": 22.07
+	},
+	{
+		"name": "도인19",
+		"decrease": 22.17
+	},
+	{
+		"name": "도인20",
+		"decrease": 22.27
+	},
+	{
+		"name": "도인21",
+		"decrease": 22.37
+	},
+	{
+		"name": "도인22",
+		"decrease": 22.47
+	},
+	{
+		"name": "도인23",
+		"decrease": 22.57
+	},
+	{
+		"name": "도인24",
+		"decrease": 22.67
+	},
+	{
+		"name": "도인25",
+		"decrease": 22.77
+	},
+	{
+		"name": "도인26",
+		"decrease": 22.87
+	},
+	{
+		"name": "도인27",
+		"decrease": 22.97
+	},
+	{
+		"name": "도인28",
+		"decrease": 23.07
+	},
+	{
+		"name": "도인29",
+		"decrease": 23.17
+	},
+	{
+		"name": "도인30",
+		"decrease": 23.27
+	},
+	{
+		"name": "도인31",
+		"decrease": 23.37
+	},
+	{
+		"name": "도인32",
+		"decrease": 23.47
+	},
+	{
+		"name": "도인33",
+		"decrease": 23.57
+	},
+	{
+		"name": "도인34",
+		"decrease": 23.67
+	},
+	{
+		"name": "도인35",
+		"decrease": 23.77
+	},
+	{
+		"name": "도인36",
+		"decrease": 23.87
+	},
+	{
+		"name": "도인37",
+		"decrease": 23.97
+	},
+	{
+		"name": "도인38",
+		"decrease": 24.07
+	},
+	{
+		"name": "도인39",
+		"decrease": 24.17
+	},
+	{
+		"name": "도인40",
+		"decrease": 24.27
+	},
+	{
+		"name": "도인41",
+		"decrease": 24.37
+	},
+	{
+		"name": "도인42",
+		"decrease": 24.47
+	},
+	{
+		"name": "도인43",
+		"decrease": 24.57
+	},
+	{
+		"name": "도인44",
+		"decrease": 24.67
+	},
+	{
+		"name": "도인45",
+		"decrease": 24.77
+	},
+	{
+		"name": "도인46",
+		"decrease": 24.87
+	},
+	{
+		"name": "도인47",
+		"decrease": 24.97
+	},
+	{
+		"name": "도인48",
+		"decrease": 25.07
+	},
+	{
+		"name": "도인49",
+		"decrease": 25.17
+	},
+	{
+		"name": "도인50",
+		"decrease": 25.27
+	}
+]
