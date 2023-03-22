@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/assets/data/lightStones.json": "68efebc19375c2dfa6e78b54818a528a",
 "assets/assets/data/shipExtension.json": "8469287cdff629803f8a468a7a9ab42e",
 "assets/assets/data/shipextensionItem.json": "ce813c08bd486d5b24a4c16f826d6762",
-"assets/assets/data/tradeLevel.json": "4c3042138cd238fb45a99650007195a8",
+"assets/assets/data/tradeLevel.json": "978bfe4a2e5c414367434d656a0fc0f1",
 "assets/assets/icons/bdo.png": "eff04c86848ea70cee3fa0713123ec59",
 "assets/assets/icons/bdocodex.png": "76fc0a3168b917540cf97c3c08345f68",
 "assets/assets/icons/garmoth.png": "1942da7e4277df31dae8294f6cecaca0",
@@ -56,13 +56,13 @@ const RESOURCES = {
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "4280f2f7eb77526eff06054c4da55ae9",
-"/": "4280f2f7eb77526eff06054c4da55ae9",
+"index.html": "f4f6e36da33807114f1052ebb971b005",
+"/": "f4f6e36da33807114f1052ebb971b005",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "a822cd9aecd187ab531a10470ff53179",
-"manifest.json": "4f074829cedbe2618d97cbba0b7a9254",
+"main.dart.js": "f37e66724d55fd7fc726a7317144d8e4",
+"manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
-"version.json": "ecb7b7a1e43e55e03624c32168d0de7c"
+"version.json": "a9bf62ef9bcc58a3a015aa7b54b36b2b"
 };
 
 // The application shell files that are downloaded before a service worker can
