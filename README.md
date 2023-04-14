@@ -2,7 +2,7 @@
 ![Karanda_logo](https://user-images.githubusercontent.com/97436524/226518401-32ee6f8f-3ab1-4dbe-bca0-c93be47e3c63.png)
 Karanda project channel
 
-🌏Web: https://hwansangyeonhwa.github.io/Karanda
+🌏Web: https://www.karanda.kr
 
 📂Download desktop app: https://github.com/HwanSangYeonHwa/Karanda/releases/latest
 
