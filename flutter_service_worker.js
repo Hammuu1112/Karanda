@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "72ffda7e5711549709dda19d4d3c4835",
+  "assets/AssetManifest.json": "2ab5aa7d1bc11fdd9214b24955f532cd",
 "assets/assets/data/combination.json": "2119dd3792cbfb266d48d8bd410e341f",
 "assets/assets/data/lightStones.json": "68efebc19375c2dfa6e78b54818a528a",
 "assets/assets/data/shipExtension.json": "8469287cdff629803f8a468a7a9ab42e",
@@ -37,7 +37,9 @@ const RESOURCES = {
 "assets/assets/image/shipExtension/0015.png": "42b219e7735cab071c05d9c716759657",
 "assets/assets/image/shipExtension/0016.png": "c93c9913a6c3a2f528806a210fc7a91d",
 "assets/assets/image/shipExtension/0017.png": "c28c2eff088c9172f2c3bd7c12454d5b",
-"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
+"assets/FontManifest.json": "60a99afb09a4002187a48d2ac7f769a0",
+"assets/fonts/Maplestory%2520Bold.ttf": "b0a6a2693556296fa674f5e4de61810b",
+"assets/fonts/Maplestory%2520Light.ttf": "fb932d042f385927ba59e9a690538709",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "4a77fc7931fd2208be42aff5eda1ce04",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -56,10 +58,10 @@ const RESOURCES = {
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "72d8d2ff01ee3759de04aa17cea9fa66",
-"/": "72d8d2ff01ee3759de04aa17cea9fa66",
+"index.html": "033bc0a2e268e789bf9766249f47ecc7",
+"/": "033bc0a2e268e789bf9766249f47ecc7",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "aa31b290a1ee7867edb04a3abbb49518",
+"main.dart.js": "682b671e515dce0faac4df6a65e02a1c",
 "manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
 "version.json": "08074b5e4cdb96ebd363d5806c2d8ebc"
