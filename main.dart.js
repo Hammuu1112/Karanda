@@ -26017,7 +26017,7 @@ aB4:function aB4(){},
 aB3:function aB3(){},
 aB2:function aB2(a){this.a=a},
 aIe(){var s=new A.kf($.be())
-s.b="https://discord.com/api/oauth2/authorize?client_id=1097362924584046712&redirect_uri=https%3A%2F%2Fkaranda-server-6hf3d25tnq-an.a.run.app%2Fauth%2Fdiscord%2Fauthenticate%2Fweb&response_type=code&scope=email%20identify"
+s.b="https://discord.com/api/oauth2/authorize?client_id=1097362924584046712&redirect_uri=http%3A%2F%2Fkaranda-server-6hf3d25tnq-an.a.run.app%2Fauth%2Fdiscord%2Fauthenticate%2Fweb&response_type=code&scope=identify%20email"
 return s},
 kf:function kf(a){var _=this
 _.b=$
