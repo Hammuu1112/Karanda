@@ -3,7 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cf205a7cad23fdc73b8a03dc83bc8eb2",
+  "assets/AssetManifest.json": "2d5d3839545617ee7d48bdbef687a532",
+"assets/assets/brand/karanda_full_name_logo.png": "476c1d62d9825825bc901679afdfbab8",
+"assets/assets/brand/karanda_mix.png": "81ea27748342e7f228036ba75489eaaa",
+"assets/assets/brand/karanda_shape.png": "ac6d17b09856feee9ce845eb1eddd267",
 "assets/assets/data/combination.json": "2119dd3792cbfb266d48d8bd410e341f",
 "assets/assets/data/lightStones.json": "68efebc19375c2dfa6e78b54818a528a",
 "assets/assets/data/shipExtension.json": "8469287cdff629803f8a468a7a9ab42e",
@@ -11,6 +14,7 @@ const RESOURCES = {
 "assets/assets/data/tradeLevel.json": "978bfe4a2e5c414367434d656a0fc0f1",
 "assets/assets/icons/bdo.png": "eff04c86848ea70cee3fa0713123ec59",
 "assets/assets/icons/bdocodex.png": "76fc0a3168b917540cf97c3c08345f68",
+"assets/assets/icons/discord.png": "d74865e1094f5ac0a0e782875449ff66",
 "assets/assets/icons/garmoth.png": "1942da7e4277df31dae8294f6cecaca0",
 "assets/assets/icons/inven.png": "227132c3009171ab9301509c5f4701ae",
 "assets/assets/icons/lotus.png": "d54b80cda246768001826a26182ff100",
@@ -62,10 +66,10 @@ const RESOURCES = {
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "eb18caee815233af81ff79c8e086c2f0",
-"/": "eb18caee815233af81ff79c8e086c2f0",
+"index.html": "d6c73acca40684d4d8ffe55cc4bc870e",
+"/": "d6c73acca40684d4d8ffe55cc4bc870e",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "1751dbeebc232cea4d6fba15cca29a28",
+"main.dart.js": "5044cafded16ac22f294b1c4ed01bc45",
 "manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
 "version.json": "08074b5e4cdb96ebd363d5806c2d8ebc"
