@@ -90199,7 +90199,7 @@ A.TH.prototype={
 Bw(){var s=0,r=A.a1(t.H),q
 var $async$Bw=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:s=2
-return A.a4(A.yQ(A.eD("http://localhost:8000/auth/discord/user-profile",0,null)),$async$Bw)
+return A.a4(A.yQ(A.eD("http://karanda-server-6hf3d25tnq-an.a.run.app/auth/discord/user-profile",0,null)),$async$Bw)
 case 2:q=b
 if(q.b===200)A.K9(A.yP(J.R(A.yF(q.e).c.a,"charset")).dw(0,q.w))
 return A.a_(null,r)}})
