@@ -66,10 +66,10 @@ const RESOURCES = {
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "012a69929473bf88f8f583081ab91a2d",
-"/": "012a69929473bf88f8f583081ab91a2d",
+"index.html": "0c2d2238623bf9e3d2913981b8eb47eb",
+"/": "0c2d2238623bf9e3d2913981b8eb47eb",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "312d3457e9256187f65210dbfff37f65",
+"main.dart.js": "257124f0fb0a2110c5b7c88445b7b731",
 "manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
 "version.json": "08074b5e4cdb96ebd363d5806c2d8ebc"
