@@ -96004,7 +96004,7 @@ $S:562}
 A.aqT.prototype={
 $0(){var s=this.a.c
 s.toString
-A.dK(s,!1,t.MP).zN("https://discord.com/api/oauth2/authorize?client_id=1097362924584046712&redirect_uri=https%3A%2F%2Fapi.karanda.kr%2Fauth%2Fdiscord%2Fauthenticate%2Fweb&response_type=code&scope=identify",!1)},
+A.dK(s,!1,t.MP).zN("https://discord.com/api/oauth2/authorize?client_id=1097362924584046712&redirect_uri=http%3A%2F%2Fapi.karanda.kr%2Fauth%2Fdiscord%2Fauthenticate%2Fweb&response_type=code&scope=identify",!1)},
 $S:0}
 A.aqV.prototype={
 $0(){return this.a.mj()},
