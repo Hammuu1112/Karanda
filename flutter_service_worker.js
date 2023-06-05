@@ -71,10 +71,10 @@ const RESOURCES = {"assets/AssetManifest.json": "2d5d3839545617ee7d48bdbef687a53
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "6bd644fc46ab4646fbcdbdb9953524df",
-"/": "6bd644fc46ab4646fbcdbdb9953524df",
+"index.html": "b0d3f92718706c0cfa05843c004ec916",
+"/": "b0d3f92718706c0cfa05843c004ec916",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "8f664707bc64c7aef14cbcae462ccac6",
+"main.dart.js": "0936a971eb176fd1905a759b5baf1093",
 "manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
 "version.json": "8e9aa7848c90e49b692744670485d30e"};
