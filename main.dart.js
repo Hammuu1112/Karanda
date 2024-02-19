@@ -108794,7 +108794,7 @@ return s==null?null:s.gaE3()},
 $S:0}
 A.wB.prototype={
 B(a){var s,r,q=this,p=null,o=q.f,n=o/3.8,m=o*0.1,l=A.lK($.b9u[q.d],1.2),k=A.c8(4),j=o*0.9
-j=A.ako("http://storage.karanda.kr/bdo/item/image/"+q.c+".png",new A.acC(),B.r9,j,new A.acD(q),j)
+j=A.ako("https://storage.googleapis.com/storage.karanda.kr/bdo/item/image/"+q.c+".png",new A.acC(),B.r9,j,new A.acD(q),j)
 s=q.e
 r=$.ag().aF()
 r.sb3(0,B.a0)
