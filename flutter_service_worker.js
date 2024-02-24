@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "74eabb0f10488fee4b841eb9d00957e2",
-"assets/AssetManifest.bin.json": "038da52f7caf17b5fe05b2b68ab4c817",
-"assets/AssetManifest.json": "c42e9b2355b1b5f58016718960671152",
+const RESOURCES = {"assets/AssetManifest.bin": "78b7644187025e263432dce168b9fe5c",
+"assets/AssetManifest.bin.json": "2c6e253b64289ecaf79bec599c2f6abe",
+"assets/AssetManifest.json": "3127d16acd4ca2dc329f9f2026b3f916",
 "assets/assets/brand/karanda_full_name_logo.png": "476c1d62d9825825bc901679afdfbab8",
 "assets/assets/brand/karanda_mix.png": "81ea27748342e7f228036ba75489eaaa",
 "assets/assets/brand/karanda_shape.png": "ac6d17b09856feee9ce845eb1eddd267",
@@ -57,7 +57,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "74eabb0f10488fee4b841eb9d00957e2
 "assets/FontManifest.json": "2503cf1117fe7381aec2b3b6c9361ecc",
 "assets/fonts/Maplestory%2520Bold.ttf": "b0a6a2693556296fa674f5e4de61810b",
 "assets/fonts/Maplestory%2520Light.ttf": "fb932d042f385927ba59e9a690538709",
-"assets/fonts/MaterialIcons-Regular.otf": "80308f07353bbe31f32e5677962c9afd",
+"assets/fonts/MaterialIcons-Regular.otf": "a756e70c2eba0e29b94095059c58b6a6",
 "assets/fonts/nanum-square-round/NanumSquareRoundOTFB.otf": "d1b7d1fc8bfe4eccc8aeb7ff95bad663",
 "assets/fonts/nanum-square-round/NanumSquareRoundOTFEB.otf": "80d60e4eb529133db2d93250100760f5",
 "assets/fonts/nanum-square-round/NanumSquareRoundOTFL.otf": "75662d6e584f51c83a805698c3de0f20",
@@ -71,11 +71,15 @@ const RESOURCES = {"assets/AssetManifest.bin": "74eabb0f10488fee4b841eb9d00957e2
 "assets/fonts/NotoSansKR/NotoSansKR-Regular.ttf": "e910afbd441c5247227fb4a731d65799",
 "assets/fonts/NotoSansKR/NotoSansKR-SemiBold.ttf": "90c2026b48704ad2560e68249b15b7f5",
 "assets/fonts/NotoSansKR/NotoSansKR-Thin.ttf": "b59719d81a60f284b7c372c7891689fd",
-"assets/NOTICES": "ddc53154f540b73f7de69b8e5a57c603",
+"assets/NOTICES": "53fc97d984eaa1cdad3776278868fd9f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "da2b12c98ee2299bf3a73b4c67626fa6",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "67d1e82ca459f400adea48b48807df21",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "b1a334646c98dfd4f366b27422cf9bb6",
+"assets/packages/window_manager/images/ic_chrome_close.png": "75f4b8ab3608a05461a31fc18d6b47c2",
+"assets/packages/window_manager/images/ic_chrome_maximize.png": "af7499d7657c8b69d23b85156b60298c",
+"assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
+"assets/packages/window_manager/images/ic_chrome_unmaximize.png": "4a90c1909cb74e8f0d35794e2f61d8bf",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/canvaskit.wasm": "73584c1a3367e3eaf757647a8f5c5989",
@@ -92,13 +96,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "74eabb0f10488fee4b841eb9d00957e2
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "fb8d8e96017e1ecadd5b8300bd50c013",
-"/": "fb8d8e96017e1ecadd5b8300bd50c013",
+"index.html": "2dc6baf2f14c3a1dae11653e06510617",
+"/": "2dc6baf2f14c3a1dae11653e06510617",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "792a006c9bc4c6b72296ed9872ac8977",
+"main.dart.js": "28d0f23f3bf2dfb84f9ee471317ac954",
 "manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
-"version.json": "994cd8a3bdc1c9471e66c6b4e0f9eadc"};
+"version.json": "3511034eb718d31aa1d4069ec62f7f64"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
