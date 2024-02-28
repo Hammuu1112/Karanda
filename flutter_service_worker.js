@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "78b7644187025e263432dce168b9fe5c",
-"assets/AssetManifest.bin.json": "2c6e253b64289ecaf79bec599c2f6abe",
-"assets/AssetManifest.json": "3127d16acd4ca2dc329f9f2026b3f916",
+const RESOURCES = {"assets/AssetManifest.bin": "f58cf47d059a16060577d31c207fd28a",
+"assets/AssetManifest.bin.json": "0a88d609b2a169a87483d98cad2e175b",
+"assets/AssetManifest.json": "a3214f4e61c8873a9a7f4882992414a0",
 "assets/assets/brand/karanda_full_name_logo.png": "476c1d62d9825825bc901679afdfbab8",
 "assets/assets/brand/karanda_mix.png": "81ea27748342e7f228036ba75489eaaa",
 "assets/assets/brand/karanda_shape.png": "ac6d17b09856feee9ce845eb1eddd267",
 "assets/assets/data/combination.json": "2119dd3792cbfb266d48d8bd410e341f",
+"assets/assets/data/cooking_box.json": "4600babf7d402ce38da58d6a3bdbc5c2",
 "assets/assets/data/lightStones.json": "68efebc19375c2dfa6e78b54818a528a",
 "assets/assets/data/shipExtension.json": "8469287cdff629803f8a468a7a9ab42e",
 "assets/assets/data/shipExtensionItem.json": "288c4823528cb73983d3287e4d526290",
@@ -31,6 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "78b7644187025e263432dce168b9fe5c
 "assets/assets/image/Black_desert_ocean_map(v1.2).jpg": "9bbe831523833b63bcd3b9c60bf9e537",
 "assets/assets/image/bmc_full.png": "486d94a030cb95a88786acf469c9c0d6",
 "assets/assets/image/bmc_full_reverse.png": "53b97471e3343250521257afccced42f",
+"assets/assets/image/cooking_box.png": "8941e3574ee8e767e6b73459a22f0642",
 "assets/assets/image/logo/initial.png": "f87255e8d9c0e124dc30a0946f9f6a5c",
 "assets/assets/image/logo/karanda_logo.png": "577324048eea925ebddb864d3e7784b9",
 "assets/assets/image/logo/karanda_logo_sqaure.png": "23856322dca29d762fe47527da3cbe1e",
@@ -96,13 +98,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "78b7644187025e263432dce168b9fe5c
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "05abb3ba43cf240b702c37bf809bf275",
-"/": "05abb3ba43cf240b702c37bf809bf275",
+"index.html": "4d024242221ce599b7979eb6c2497fe2",
+"/": "4d024242221ce599b7979eb6c2497fe2",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "eb4aaa369cd1ccedb33a4d6f6a8df2c6",
+"main.dart.js": "bda8127179627d41c583a3bf53a0aeb5",
 "manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
-"version.json": "d96f013792cfac4e350f3cfbcd96f4ca"};
+"version.json": "76ab02f625bd7dd56a0101a2dd056451"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
