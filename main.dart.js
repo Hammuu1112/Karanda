@@ -107866,7 +107866,7 @@ return s},
 $S:716}
 A.aob.prototype={
 $3(a,b,c){var s=A.AB(null,B.a3,A.aWT(b.b.b),!0),r=A.AB(B.b3,B.Gm,A.aWT(b.b.b),!0),q=b.a?B.Mn:B.apd
-return new A.qg(this.a.c,$.aXo(),"Karanda",s,r,q,!1,null)},
+return new A.qg(this.a.c,$.aXo(),"\uce74\ub780\ub2e4 | Karanda",s,r,q,!1,null)},
 $C:"$3",
 $R:3,
 $S:717}
