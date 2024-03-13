@@ -20,6 +20,7 @@ Karanda project channel
 - 주화 환율 계산기
 - 요루나키아 보름달이 뜬 밤 실타래 계산기
 - 물교 교섭력 계산기
+- 통합 거래소
 
 # 사용법
 ### Karanda Wiki
