@@ -108032,9 +108032,8 @@ $1(a){var s,r,q
 if(a){s=this.a
 r=s.f
 q=r==null
-if(!q&&r.b!=null&&!s.e){if(!q)r.b9(0)
-s.f=null
-s.hT()}}else{s=this.a
+if(!q&&r.b!=null){if(!q)r.b9(0)
+s.f=null}if(!s.e)s.hT()}else{s=this.a
 s.f=A.cG(B.nC,new A.agc(s))}},
 $S:12}
 A.agc.prototype={
