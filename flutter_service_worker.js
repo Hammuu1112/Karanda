@@ -18,7 +18,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "5f503400b338f2d6e8bc61438840a217
 "assets/assets/data/shipExtensionItem.json": "c3d1c53a6db1b24bf11be7fd322ce6d9",
 "assets/assets/data/ship_upgrading.json": "a709acac88868a4d7bb9f73d37c6b714",
 "assets/assets/data/tradeLevel.json": "978bfe4a2e5c414367434d656a0fc0f1",
-"assets/assets/Hammuu": "1c33402c71ca1f1f1329c7b9793b2ecb",
+"assets/assets/Hammuu": "26b4d6d8b0b4fa72ec9d1ab58a2fd00a",
 "assets/assets/icons/bdo.png": "eff04c86848ea70cee3fa0713123ec59",
 "assets/assets/icons/bdocodex.png": "5fb27b8018ec01b4c64ac0e8047e2fb3",
 "assets/assets/icons/bdolytics.png": "7a5701505da0fe8dce23f8dde5816368",
@@ -101,13 +101,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "5f503400b338f2d6e8bc61438840a217
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "ded3628e5ce7fac85d680d6883072204",
-"/": "ded3628e5ce7fac85d680d6883072204",
+"index.html": "4ddc1a8e29daae3f80aad67c35db0530",
+"/": "4ddc1a8e29daae3f80aad67c35db0530",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "d7b0e3e1f97a1891400d8a05b25ca071",
+"main.dart.js": "89f24e9609ad6b66d3d531c131a73924",
 "manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
-"version.json": "2fdf81360abefd0d423f60d414de519b"};
+"version.json": "f21bddecc843604853e86d7cac83e2cb"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
