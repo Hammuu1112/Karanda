@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7a8866f3cc2e70ed8c9371f84ab7d840",
-"assets/AssetManifest.bin.json": "0352589dbb5ca84a0110c5124bb1fc8b",
-"assets/AssetManifest.json": "7e272b5865e805edaf5095f8eff3bb6a",
+const RESOURCES = {"assets/AssetManifest.bin": "21a40767434342dd6050f98f48a8b355",
+"assets/AssetManifest.bin.json": "02b7ff2f22f29025e98d90e064cae499",
+"assets/AssetManifest.json": "b154369d306aece20c9ac52aaf416897",
 "assets/assets/brand/karanda_full_name_logo.png": "476c1d62d9825825bc901679afdfbab8",
 "assets/assets/brand/karanda_mix.png": "81ea27748342e7f228036ba75489eaaa",
 "assets/assets/brand/karanda_shape.png": "ac6d17b09856feee9ce845eb1eddd267",
@@ -19,7 +19,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7a8866f3cc2e70ed8c9371f84ab7d840
 "assets/assets/data/shipExtensionItem.json": "c3d1c53a6db1b24bf11be7fd322ce6d9",
 "assets/assets/data/ship_upgrading.json": "a709acac88868a4d7bb9f73d37c6b714",
 "assets/assets/data/trade_level.json": "978bfe4a2e5c414367434d656a0fc0f1",
-"assets/assets/Hammuu": "525a81c76f4aca25e8d54f2232bf0cb0",
+"assets/assets/Hammuu": "31f3f27f579c8628ce65ea6a6a76fb74",
 "assets/assets/icons/bdo.png": "eff04c86848ea70cee3fa0713123ec59",
 "assets/assets/icons/bdocodex.png": "5fb27b8018ec01b4c64ac0e8047e2fb3",
 "assets/assets/icons/bdolytics.png": "7a5701505da0fe8dce23f8dde5816368",
@@ -36,10 +36,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "7a8866f3cc2e70ed8c9371f84ab7d840
 "assets/assets/image/Black_desert_ocean_map(v1.2).jpg": "9bbe831523833b63bcd3b9c60bf9e537",
 "assets/assets/image/bmc_full.png": "486d94a030cb95a88786acf469c9c0d6",
 "assets/assets/image/bmc_full_reverse.png": "53b97471e3343250521257afccced42f",
+"assets/assets/image/chzzk_full.png": "2165ced1acb1c4347f764b998afc9ba5",
 "assets/assets/image/cooking_box.png": "b3da6f439bb703761a5089c01861ca7d",
 "assets/assets/image/dehkias_light.png": "9af5c5c6c4acd0a183bb69b88e9b934f",
 "assets/assets/image/discord_full.png": "3f894989b269f8d72584747e78175bf5",
 "assets/assets/image/discord_full_reverse.png": "893af1ca06cd7b1398150ff3f4e4c137",
+"assets/assets/image/live_banner.jpg": "640247b0b9edaf2089c641904d480316",
 "assets/assets/image/logo/initial.png": "f87255e8d9c0e124dc30a0946f9f6a5c",
 "assets/assets/image/logo/karanda_logo.png": "577324048eea925ebddb864d3e7784b9",
 "assets/assets/image/logo/karanda_logo_sqaure.png": "23856322dca29d762fe47527da3cbe1e",
@@ -103,13 +105,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "7a8866f3cc2e70ed8c9371f84ab7d840
 "icons/favicon-32x32.png": "bf8ae1f0210a568b65cc2d4208004cdd",
 "icons/favicon.ico": "a4a2e9bd7f38cd26922a4ad9ac9a8714",
 "img/flutter-logo.png": "680596443602745483f66870e07d7e94",
-"index.html": "59c42214cf8ac435e934e1ff4e3ae27a",
-"/": "59c42214cf8ac435e934e1ff4e3ae27a",
+"index.html": "4c571252e65630e78e9d8e08d5c1fa3b",
+"/": "4c571252e65630e78e9d8e08d5c1fa3b",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "c965b8696719154996cb9cf5aa7f8c06",
+"main.dart.js": "73eef5f7527571d7aa4d17f3e21f2dd0",
 "manifest.json": "cee3ff988c33441e88211224b05a88fb",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
-"version.json": "470cde72e95e8336b1d9e8c129fb8f49"};
+"version.json": "caa76460896f51e91a7c5b476a3dd2fc"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
