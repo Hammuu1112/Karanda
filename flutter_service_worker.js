@@ -18,7 +18,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0ef60e12793c4e8a88d0f4abe213418b
 "assets/assets/data/melody_of_stars.json": "164edbe779d3d20b995212365c166085",
 "assets/assets/data/ship_upgrading.json": "a709acac88868a4d7bb9f73d37c6b714",
 "assets/assets/data/trade_level.json": "978bfe4a2e5c414367434d656a0fc0f1",
-"assets/assets/data/world_boss.json": "e7955f7c5d3ab7e2f5a6e59b655b8d83",
+"assets/assets/data/world_boss.json": "281ee7c92fc890aa22f17323e2047f59",
 "assets/assets/Hammuu": "62df9d9743bc69849b5da3450a03c162",
 "assets/assets/icons/bdo.png": "eff04c86848ea70cee3fa0713123ec59",
 "assets/assets/icons/bdocodex.png": "5fb27b8018ec01b4c64ac0e8047e2fb3",
@@ -79,7 +79,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0ef60e12793c4e8a88d0f4abe213418b
 "canvaskit/skwasm.wasm": "4051bfc27ba29bf420d17aa0c3a98bce",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "c987a30a381b6be595b5abafb76b65f9",
+"flutter_bootstrap.js": "161a4a6015ec8fa1e603b4c647d6eb5d",
 "icons/android-chrome-192x192.png": "6b2c40f0cd009f01f65b44a4926cbee3",
 "icons/android-chrome-512x512.png": "4400fc1c4c0c94f5f007f771d573c621",
 "icons/apple-touch-icon.png": "3f98cc531166253b3d4c45465ec02390",
@@ -90,10 +90,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "0ef60e12793c4e8a88d0f4abe213418b
 "index.html": "7cebe34231a751023b220b0a9883290f",
 "/": "7cebe34231a751023b220b0a9883290f",
 "install.js": "2c8700fd8bf96f556c179c5eaea8e8a2",
-"main.dart.js": "cdb1014b15f0c52e541e7990194505a9",
+"main.dart.js": "e840173c4285879fbe78dd281503e262",
 "manifest.json": "2294636d78cd716fa88b570987cb468b",
 "styles.css": "163855fd240b2a8d4e378c5187267607",
-"version.json": "38a255bbd38ae338d6e6738739e97328"};
+"version.json": "3f4c602d4372383e3f9bef8adffaf2c9"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
