@@ -325,12 +325,17 @@
         },
         {
           "weekday": 4,
+          "hour": 2,
+          "minute": 0
+        },
+        {
+          "weekday": 4,
           "hour": 16,
           "minute": 0
         },
         {
           "weekday": 4,
-          "hour": 2,
+          "hour": 20,
           "minute": 0
         },
         {
@@ -665,6 +670,28 @@
         {
           "weekday": 0,
           "hour": 15,
+          "minute": 0
+        },
+        {
+          "weekday": 0,
+          "hour": 18,
+          "minute": 0
+        },
+        {
+          "weekday": 0,
+          "hour": 23,
+          "minute": 0
+        }
+      ]
+    },
+    "zodd": {
+      "name": "zodd",
+      "start": "2024-09-04 00:00:00",
+      "end": "2024-09-18 23:59:59",
+      "kr": [
+        {
+          "weekday": 0,
+          "hour": 12,
           "minute": 0
         },
         {
