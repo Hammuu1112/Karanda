@@ -26,7 +26,7 @@
 
         /* Send flutter page transitions */
         sendNavigation = function (location) {
-            try {
+            try{
                 gtag('event', 'page_view', {
                     page_title: location,
                     page_location: location,
@@ -57,20 +57,14 @@
 </head>
 
 <body>
-<!--<img id="splashImage" class="center" src="img/flutter-logo.png"/>-->
-
-<div id="splashImage" class="center">
-    <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-    <dotlottie-player class="lottie" src="img/loading.lottie" background="transparent" speed="1" loop autoplay></dotlottie-player>
-    <img class="logo" src="img/karanda-full-name-logo.png"/>
-</div>
+<img id="splashImage" class="center" src="img/flutter-logo.png"/>
 
 <!-- Hide background image in broadcast widgets -->
 <script>
-    if (window.location) {
+    if(window.location) {
         const hash = window.location.hash;
         const re = /^#\/broadcast-widget\/[a-z]/;
-        if (re.test(hash)) {
+        if(re.test(hash)){
             document.getElementById("splashImage").hidden = true;
         }
     }
