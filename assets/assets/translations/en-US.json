@@ -1,10 +1,20 @@
 {
+  "select": "Select",
+  "cancel": "Cancel",
   "Karanda": "Karanda",
+  "reporting": "Reporting",
+  "login required": "Login required.",
+  "keywords": "Keywords",
+  "backgrounds": "Backgrounds",
+  "--Text Field validator": "",
+  "validate empty": "This field must not be empty",
+  "validate zero": "Must be greater than 0",
   "Champron": "Champron",
   "Saddle": "Saddle",
   "Horseshoe": "Horseshoe",
   "Stirrups": "Stirrups",
   "melody_of_stars_exchange_rate": "PRI (Ⅰ): ×{}\nDUO (Ⅱ): ×{}\nTRI (Ⅲ): ×{}",
+  "--World boss": "",
   "garmoth": "garmoth",
   "vell": "vell",
   "karanda": "karanda",
@@ -17,7 +27,110 @@
   "bulgasal": "bulgasal",
   "uturi": "uturi",
   "golden_pig_king": "golden pig king",
+  "golden pig king": "golden pig king",
   "sangoon": "sangoon",
   "baby_vell": "baby vell",
-  "zodd": "zodd"
+  "zodd": "zodd",
+  "piku": "piku",
+  "--Adventurer hub": "",
+  "adventurer hub title": "Adventurer hub (Beta)",
+  "recruitment": "recruitment",
+  "recruitment post": "Recruitment post",
+  "adventurer hub": {
+    "new post": "Create new post",
+    "FAB label": "Create",
+    "members": "Members\n({})",
+    "require main family": "No main family is set.",
+    "recently applied": "Recently applied",
+    "recently applied empty": "Empty",
+    "my posts": "My posts",
+    "my posts empty": "Empty",
+    "no posts open": "No posts are open.",
+    "post opened": "Post opened [ {} ]"
+  },
+  "adventurer hub category": {
+    "partyAndPlatoon": "Party & Platoon",
+    "guildWarHeroes": "Guild war heroes"
+  },
+  "recruit method": {
+    "karandaReservation": "Karanda reservation",
+    "inGameWhispers": "In-game whispers"
+  },
+  "edit recruitment post": "Edit recruitment post",
+  "edit recruitment": {
+    "title": "Title (required)",
+    "guild name": "Guild name (required)",
+    "number of recruits": "Number of recruits (required)",
+    "recruit method": "Recruit method",
+    "start immediately": "Start recruiting immediately",
+    "show contents after join": "Show details after join",
+    "details": "Recruitment details",
+    "details hint": "hint text",
+    "discord code": "Discord invitation code",
+    "discord code validate failed": "Enter your Discord invite code",
+    "save": "Save",
+    "caution card title": "Caution",
+    "caution card contents": "1. New posts can be published once per hour.\n2. Published posts cannot be deleted."
+  },
+  "recruitment post detail": {
+    "chip": {
+      "open": "Open",
+      "closed": "Closed",
+      "applied": "Applied",
+      "canceled": "Canceled",
+      "approved": "Approved",
+      "rejected": "Rejected"
+    },
+    "FAB": {
+      "applied": "Applied",
+      "canceled": "Canceled",
+      "approved": "Approved\nCode: {}",
+      "rejected": "Rejected"
+    },
+    "action": {
+      "open": "Open",
+      "close": "Close",
+      "apply": "Apply",
+      "cancel": "Cancel",
+      "reject": "reject",
+      "approve": "Approve"
+    },
+    "success": "Request success",
+    "failed": "Request failed",
+    "copy family name": "Copy family name",
+    "copy code": "Copy code",
+    "code": "Code: {}",
+    "max count": "Max: {}",
+    "approved count": "Approved: {}",
+    "applicants count": "Applicants: {}",
+    "max count with current": "Current: {}  Max: {}",
+    "details": "Details",
+    "applicants": "Applicants",
+    "applicants are empty": "There are no applicants yet.",
+    "search not fount": "No matching results found.",
+    "search": "Search",
+    "search bar hint": "Family name or Code",
+    "edit": "수정",
+    "share": "공유하기"
+  },
+  "--Adventurer card": "",
+  "adventurer card": {
+    "title": "Adventurer card",
+    "show family name": "Show family name",
+    "publish": "Publish card",
+    "verification failed": "Adventurer card verification failed",
+    "save image success": "[{}] has been saved to your Downloads folder.",
+    "download": "Download"
+  },
+  "adventurer card contents": {
+    "verification code":  "Verification code: {}",
+    "published on": "Published on: {}",
+    "family name": "Family name: {}",
+    "guild": "Guild: {}",
+    "created on": "Created on: {}",
+    "contribution points": "Contribution points: {}",
+    "highest level": "Highest LV in family: {}",
+    "life skills": "Life skills",
+    "private": "Private"
+  }
 }
